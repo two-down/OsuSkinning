@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuSkinning.UI", "OsuSkinning.UI\OsuSkinning.UI.csproj", "{C8E5D6E1-5040-492E-A73D-00ACDD902D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuSkinning.BL", "OsuSkinning.BL\OsuSkinning.BL.csproj", "{838F3C9A-F38D-4877-8E47-F0B4CE1B5966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E5D6E1-5040-492E-A73D-00ACDD902D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E5D6E1-5040-492E-A73D-00ACDD902D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E5D6E1-5040-492E-A73D-00ACDD902D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E5D6E1-5040-492E-A73D-00ACDD902D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838F3C9A-F38D-4877-8E47-F0B4CE1B5966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838F3C9A-F38D-4877-8E47-F0B4CE1B5966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838F3C9A-F38D-4877-8E47-F0B4CE1B5966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838F3C9A-F38D-4877-8E47-F0B4CE1B5966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6CEF3B-57E4-4CCE-AF70-196456F2B6CF}
+	EndGlobalSection
+EndGlobal
